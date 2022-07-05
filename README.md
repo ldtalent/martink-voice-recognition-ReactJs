@@ -10,7 +10,7 @@ To run a development build and launch the android app, execute:
 
 `npm start`
 
-![alt text](voice image.gif)
+![Alt Text](https://github.com/ldtalent/martink-voice-recognition-ReactJs/blob/1cacece810bbb2664f2762f9745c1a660a910f3c/voice%20game.gif)
 
 ## How it works
 To communicate with the game, press the spacebar. It is only when you press it that the game listens.
